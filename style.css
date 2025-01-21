@@ -1,0 +1,55 @@
+.container{
+    background: linear-gradient(132deg, rgb(255, 0, 0) 0.00%, rgb(255, 213, 0) 100.00%);
+    align-items: center;
+    font-family: "Roboto Serif", serif;
+
+}
+div .dimg{
+    display: block;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+
+.container #linked{
+    text-align: center;
+}
+
+.container #yt{
+    background: #FF0000;
+    background: linear-gradient(to right, #FF0000 100%, #FF0000 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+.container #insta{
+    background: #121FCF;
+    background: linear-gradient(to right, #121FCF 0%, #CF18A3 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+.container #face{
+    background: #0042FF;
+    background: linear-gradient(to right, #0042FF 100%, #0200FF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+
+.container #liked{
+    background: #0042FF;
+    background: linear-gradient(to right, #0042FF 100%, #0200FF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+
+.container p {
+    font-family: "Roboto Serif", serif;
+}
